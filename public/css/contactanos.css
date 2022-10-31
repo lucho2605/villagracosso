@@ -1,0 +1,152 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: white;
+    background: black;
+}
+
+
+.container-completo div{
+    display: inline-block;
+} 
+
+
+.container-iz{
+    margin-left: 100px;
+    margin-top: 70px;
+    width: 48%;
+    height: 400px;
+   
+}
+
+
+
+/* ---------------------------------------- */
+
+.contacto{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 35px;
+    border-left: 3px solid red;
+}
+
+.class-infor{
+    margin-top: 30px;
+    margin-left: 40px;    
+    border-bottom: 1px solid white;
+    width: 400px;
+}
+
+i{
+    position: absolute;
+    font-size: 40px;
+    margin-left: 40px;
+    margin-top: 20px;
+    padding: 7px;
+    width: 400px;
+}
+.div1 i{
+    margin-top: -5px;
+    border-bottom: 1px solid white;
+}
+
+.div2 i{
+    margin-top: 35px;
+    border-bottom: 1px solid white;
+}
+.div3 i{
+    margin-top: 80px;
+    border-bottom: 1px solid white;
+}
+.div4 i{
+    margin-top: 120px;
+    border-bottom: 1px solid white;
+}
+.div5 i{
+    margin-top: 160px;
+}
+
+.telefono{
+    margin-left: 100px;
+    position: absolute;
+    margin-top: 10px;
+}
+.gmail{
+    margin-left: 100px;
+    position: absolute;
+    margin-top: 50px;
+}
+
+.ig{
+    margin-left: 100px;
+    position: absolute;
+    margin-top: 95px;
+}
+.face{
+    margin-left: 100px;
+    position: absolute;
+    margin-top: 135px;
+}
+.ubi{
+    margin-left: 100px;
+    position: absolute;
+    margin-top: 175px;
+}
+
+
+/* ------------------------------------------------------------ */
+
+
+.container-der{
+    
+    width: 50%;
+    height: 400px;
+    margin-left: -73px;
+    position: absolute;
+}
+
+.container-envianos{
+    margin-top: 145px;
+}
+.container-parrafo{
+    border-bottom: 1px solid white;
+    width: 400px;
+    padding-bottom: 10px;
+}
+
+input{
+ background: white;
+ color: black;  
+    width: 150px;
+    height: 25px;
+
+}
+
+.boton{
+    background: red;
+}
+
+.h3-nombre{
+    margin-top: 15px;
+}
+.h3-email{
+    
+    border-top: 1px solid white;
+    width:400px;
+}
+.h3-asunto{
+    border-top: 1px solid white;
+    margin-top: 7PX;
+    width:400px;
+}
+.h3-mensaje{
+    margin-top:17PX;
+    border-top: 1px solid white;
+    width:400px;
+}
+
+.TEXT-MENSAJE{
+    background: white;
+    color: black;
+}

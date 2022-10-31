@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background: black;
+    color: white;
+}
+#container-register{
+text-align: center;
+
+}
+.registrar{
+    
+    border-bottom:3px solid white;
+    border-left: 3px solid red;
+    position: absolute;   
+    left: 500px;
+
+}
+
+.logo-anglo{
+    height: 150px;
+}
+
+
+.completar {
+    margin-top: 100px;
+    
+   
+    text-align: center;
+    
+}
+.completar h2{
+    font-size: 15px;
+}
+.completar input{
+    background: white;
+    color: black;
+}
+
+.boton{
+    margin-top: 30px;
+    padding: 10px 5px;
+    border: 2px solid white;
+}
+h2{
+    padding: 5PX;
+}

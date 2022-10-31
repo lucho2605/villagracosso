@@ -1,0 +1,236 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+
+header{
+    padding-left: 50px;
+    height: 130px;
+}
+header{
+    border-bottom: 8px solid gray;
+    margin-left: 50px;
+    width: 93%;
+}
+
+.img-logo{
+    padding-top: 30px;
+    width: 15%;
+    height: auto;
+    float: right;
+    
+}
+
+
+.titulo-h1{
+    position: relative;
+    top: 53px;
+    left: -50px;
+    font-size: 40px;
+    border-bottom: 8px solid red;
+}
+
+
+
+
+
+/* titulo nom-estudiante */
+
+
+.titulo-h2{
+    margin-top: 50px;
+}
+
+/* container-meses */
+
+
+
+
+
+
+.container-entero{
+    padding-left: 50px;
+}
+
+
+
+
+.meses{
+    margin-left: 180px;
+    height: 30px;
+    width: 1300px;
+    margin-top: 30px;
+
+    
+}
+
+.meses h3{
+    display: inline-block;
+    margin-left: 10px;
+    
+}
+
+/* materias */
+
+.materias{
+    margin-top: -50px;
+}
+
+.materias h3{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 5px solid black;   
+    width: 97%; 
+}
+
+.materia{
+    background: red;
+    width: 90%;
+    border: 5px solid black;
+}
+
+/* input */
+
+
+input{
+    width: 50px;
+    height: 55PX;
+    border: 3px solid black;
+    position: relative;
+    padding-left: 10px;
+    top: -927px;
+    left: 200px;
+    text-align: center;
+}
+
+
+.input1{
+    margin-left: -8px;
+}
+.input2{
+    margin-left: 8px;
+}
+.input3{
+    margin-left: 2px;      
+}
+.input4{
+    margin-left: 25px;
+}
+.input5{
+    margin-left: 34px;
+}
+.input6{
+    margin-left: 3px;
+}
+.input7{
+   margin-left: 8px;
+}
+.input8{
+    margin-left: 30px;
+}
+.input9{
+    margin-left: 48px;
+}
+.input10{
+    margin-left: 38px;
+}
+.input11{
+    margin-left: 35px;
+}
+.input12{
+    margin-left: 53px;
+}
+.input13{
+    margin-left: 50px;
+}
+
+
+/* container-input2 */
+
+.container-input2{
+    position: relative;
+    top: 8px;
+}
+
+
+/*container-input3*/
+
+.container-input3{
+    position: relative;
+    top: 16px;
+}
+
+/* container-input4*/
+.container-input4{
+    position: relative;
+    top: 23px;
+}
+
+/* container-input5*/
+.container-input5{
+    position: relative;
+    top: 30px;
+}
+
+/* container-input6*/
+.container-input6{
+    position: relative;
+    top: 36px;
+}
+
+/* container-input7*/
+.container-input7{
+    position: relative;
+    top: 44px;
+}
+
+/* container-input8*/
+.container-input8{
+    position: relative;
+    top: 50px;
+}
+
+/* container-input9*/
+.container-input9{
+    position: relative;
+    top: 58px;
+}
+
+/* container-input10*/
+.container-input10{
+    position: relative;
+    top: 65px;
+}
+
+/* container-input11*/
+.container-input11{
+    position: relative;
+    top: 70px;
+}
+
+/* container-input12*/
+.container-input12{
+    position: relative;
+    top: 78px;
+}
+
+/* container-input13*/
+.container-input13{
+    position: relative;
+    top: 86px;
+}
+
+/* container-input14*/
+.container-input14{
+    position: relative;
+    top: 93px;
+}
+
+/* container-input15*/
+.container-input15{
+    position: relative;
+    top: 99px;
+}
